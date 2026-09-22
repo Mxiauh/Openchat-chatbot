@@ -83,7 +83,6 @@ Open your browser at `http://localhost:8501` and start chatting.
 ## Author
 
 **Muhammad Zia Ul Haq**
-[LinkedIn] | [GitHub]
 
 ## License
 
